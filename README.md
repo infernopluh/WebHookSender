@@ -1,0 +1,1 @@
+## Warning. Looking through this code may cause feelings that people wouldnt like. There is a bad word filter that exposes the banned words and it may be disturbing to some users. These words were written by chat gpt bc i didnt want to write them. I do not support anyone that says these words and it is disgusting. 
