@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 
-[BepInPlugin("com.yourname.gtag.discordwebhook", "GorillaTag Discord Webhook Mod", "1.2.0")]
+[BepInPlugin("com.walkslow.gtag.discordwebhook", "GorillaTag Discord Webhook Mod", "1.2.0")]
 public class SendToDiscordWebhookMod : BaseUnityPlugin
 {
     private string webhookUrl = "https://discord.com/api/webhooks/your_webhook_id/your_webhook_token";
